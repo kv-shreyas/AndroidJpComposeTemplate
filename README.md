@@ -1,4 +1,4 @@
-# 🚀 SmartNav Android Development Guide
+# 🚀 Jetpack Compose Template Android Development Guide
 
 ### 📁 Project Structure Overview
 
