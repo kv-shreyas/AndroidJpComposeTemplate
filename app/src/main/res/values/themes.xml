@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.jetpackComposeTemplate" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.MyApp.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/boat_app_icon</item>
+        <item name="windowSplashScreenAnimationDuration">4000</item>
+        <item name="postSplashScreenTheme">@style/Theme.jetpackComposeTemplate</item>
+    </style>
+
+</resources>

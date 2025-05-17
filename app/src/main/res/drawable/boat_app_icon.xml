@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+  <path
+      android:pathData="M23,38H18.82a2.39,2.39 0,0 1,-2.36 -2.78L20.67,18A2.38,2.38 0,0 1,23 16h4.16a2.39,2.39 0,0 1,2.36 2.78L25.33,36A2.38,2.38 0,0 1,23 38Z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#9af43b"
+      android:strokeColor="#54596e"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M20,35l11.36,-6a2,2 0,0 1,2.32 0.38L39,35Z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#ffd578"
+      android:strokeColor="#54596e"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M56,47l-53,0l0,-12l60,0l-7,12z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#ff927d"
+      android:strokeColor="#54596e"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M28,8m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#ffd578"
+      android:strokeColor="#54596e"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M47,13L33,48"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#ffd578"
+      android:strokeColor="#54596e"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M62,46a6,6 0,0 1,-6 -6,6 6,0 0,1 -12,0 6,6 0,0 1,-12 0,6 6,0 0,1 -12,0A6,6 0,0 1,8 40a6,6 0,0 1,-6 6V56H62Z"
+      android:fillColor="#55a6ff"/>
+  <path
+      android:pathData="M62,46a6,6 0,0 1,-6 -6,6 6,0 0,1 -12,0 6,6 0,0 1,-12 0,6 6,0 0,1 -12,0A6,6 0,0 1,8 40a6,6 0,0 1,-6 6"
+      android:strokeWidth="2"
+      android:fillColor="#00000000"
+      android:strokeColor="#54596e"/>
+  <path
+      android:pathData="M28,16L46,16A2,2 0,0 1,48 18L48,18A2,2 0,0 1,46 20L28,20A2,2 0,0 1,26 18L26,18A2,2 0,0 1,28 16z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#ffd578"
+      android:strokeColor="#54596e"
+      android:strokeLineCap="round"/>
+</vector>
